@@ -47,3 +47,7 @@ Fashion_cart/
 4. Start the development server:
    npm run dev
    Open in browser: http://localhost:5173
+
+## License
+
+This project is licensed under the MIT License.
